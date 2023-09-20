@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: ASHMI S
-Registeration Number : 212221040021
+Developed by: ILAYARAJA M
+Registeration Number : 212221040057
 */
 ```
 # activity_main.xml:
@@ -119,18 +119,14 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/9a797a2a-1d91-44c3-a47a-0c2124b29f1d)
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/72f80164-cbf4-4707-9175-3672d715e902)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/1534d00b-62a3-4bf2-9549-dbed06bfbe93)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/46281ee3-45a2-4864-b3af-c8fdea960a32)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/8cabc0f6-f026-4e82-9b6d-72a38b2330b9)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/4d271140-9bb9-47c9-a20f-70f8a3c08a8e)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/ff457074-e653-4ffe-b161-56599abf5a22)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/115fd65e-6263-4435-9ad8-6c91b234bd67)
+![image](https://github.com/suryacse05/Mobile-Application-Development/assets/127576283/c77855d3-e1d4-43a8-af1d-468fbd650fb0)
 
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/4b56a759-ab4d-4614-82ed-377a3ca730fb)
-
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/c02f3957-4e3d-49c8-954b-b8b38b318ae7)
-
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/8c2e917f-2ee8-4173-9c04-cf5d29eb44c3)
-
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/525b3b25-2453-4ebd-bf87-d3403116fecd)
-
-![image](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/1d40ed54-57d3-45d5-a19b-98ab6246f95a)
 
 
 
